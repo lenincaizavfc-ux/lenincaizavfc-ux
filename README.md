@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Lenin_Code 😁</h1>
-<h3 align="center">Me gusta Programa</h3>
+<h3 align="center">Me gusta Programar</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
